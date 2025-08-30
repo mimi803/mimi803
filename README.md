@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mimi803
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on a waste management system
-- 📫 How to reach me muchiribrianchiri@gmail.com,+254717350160 whatapp
+# 👋 Hi, I’m Brian Muchiri (@mimi803)
 
-<!---
-mimi803/mwene k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I’m passionate about **software development** and building impactful digital solutions.  
+- 🌱 Currently learning **React.js** and enhancing my full-stack development skills.  
+- ♻️ Actively working on a **Waste Management System (MWMC)** that integrates sustainability with technology.  
+- 🤝 Open to collaboration on projects in **web development, renewable energy tech, and smart systems**.  
+- 📫 Reach me at:  
+  - ✉️ Email: [muchiribrianchiri@gmail.com](mailto:muchiribrianchiri@gmail.com)  
+  - 📱 WhatsApp: [+254 717 350160](https://wa.me/254717350160)  
+
+---
+
+✨ *Let’s innovate together and build solutions that matter.*  
